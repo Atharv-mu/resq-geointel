@@ -2,8 +2,6 @@
 
 ### Intelligent Hazard-Based Relocation Decision Support System
 
-**Smart India Hackathon 2026 · Problem Statement SIH26191 · Team Datheon**
-
 [🌐 **Live Prototype**](https://resq-geointel.vercel.app/) · [💻 **Source Code**](https://github.com/ganeshsharma247/resq-geointel)
 
 ---
